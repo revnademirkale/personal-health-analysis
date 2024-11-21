@@ -17,4 +17,4 @@ The data is exported from the Apple Health app in `export.xml` format.
 2. Open the `analysis.ipynb` file and run the cells to view the analyses.
 
 ## Contact
-If you have any questions about the project, feel free to reach out to me: [Email](mailto:ornek@example.com).
+If you have any questions about the project, feel free to reach out to me: [Email](revna.demirkale@sabanciuniv.edu).
