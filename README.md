@@ -18,3 +18,18 @@ The data is exported from the Apple Health app in `export.xml` format.
 
 ## Contact
 If you have any questions about the project, feel free to reach out to me: [Email](revna.demirkale@sabanciuniv.edu).
+personal-health-analysis/
+│
+├── data/
+│   └── export.xml         # Ham veriler (örneğin, Apple Health'ten alınan XML dosyası).
+│
+├── notebooks/
+│   └── analysis.ipynb     # Analiz sürecini içeren Jupyter Notebook dosyası.
+│
+├── scripts/
+│   └── data_processing.py # Veriyi işlemek için kullanılan Python script'leri.
+│   └── visualization.py   # Grafikleri oluşturmak için kullanılan Python script'leri.
+│
+├── README.md              # Proje açıklamalarını içeren dosya.
+│
+└── .gitignore             # Git'e yüklenmeyecek dosyaları belirtmek için (örneğin, büyük veri dosyaları).
