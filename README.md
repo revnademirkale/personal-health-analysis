@@ -58,14 +58,15 @@ Libraries: Pandas, Matplotlib, Seaborn, NumPy, SciPy
 Environment: Jupyter Notebook
 Data Sources: Apple Health export files for health data, menstrual cycle data from tracking apps or manual input.
 
-Findings: What I Learned About Myself
+FINDINGS: WHAT I LEARNED ABOUT MYSELF?
+
 Through this project, I learned about the fluctuations in energy expenditure across different phases of the menstrual cycle. By analyzing 4 years of personal health data, I gained insights into which phases of the menstrual cycle lead to increases or decreases in energy expenditure. This extensive dataset allowed me to achieve more reliable results and make meaningful conclusions. Additionally, I realized the importance of long-term data collection for drawing accurate insights, as the 4-year data provided a solid foundation for analyzing trends and patterns. This project deepened my understanding of how data analysis can uncover patterns related to personal health and physiological cycles.
 
-Limitations and Future Work: What Could Be Done Better?
+LIMITATIONS AND FUTURE WORK: WHAT COULD BE DONE BETTER?
+
 One limitation of this project is the relatively small and subjective dataset, especially concerning menstrual cycle data, which is manually recorded or tracked by apps. This can lead to potential biases and inaccuracies. Additionally, external factors such as physical activity intensity, diet, and sleep quality were not fully integrated into the analysis, which could provide a more comprehensive understanding of the relationship between menstrual phases and energy expenditure.
 
 For future work, it would be beneficial to:
-
 Expand the dataset by including more diverse and comprehensive data points (e.g., physical activity levels, dietary information, sleep patterns).
 Increase the sample size to make the findings more generalized.
 Incorporate machine learning techniques like classification or clustering to predict energy expenditure during different phases more accurately.
