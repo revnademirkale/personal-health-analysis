@@ -42,7 +42,7 @@ Graphs and visualizations showing the relationship between menstrual cycle phase
 
 TECHNOLOGIES AND TOOLS
 
-Programming Language: Python Libraries: Pandas, Matplotlib, Seaborn, NumPy, SciPy Environment: Jupyter Notebook Data Sources: Apple Health export files for health data, menstrual cycle data from tracking apps or manual input.
+Programming Language: Python Libraries: Pandas, Matplotlib, Seaborn, NumPy, SciPy Environment: Google Colab Data Sources: Apple Health export files for health data, menstrual cycle data from tracking apps or manual input.
 
 FINDINGS: WHAT I LEARNED ABOUT MYSELF?
 
